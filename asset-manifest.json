@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.c4f317d2.css",
-    "main.js": "/react-homework-template/static/js/main.2d1ace89.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.c4f317d2.css.map": "/react-homework-template/static/css/main.c4f317d2.css.map",
-    "main.2d1ace89.js.map": "/react-homework-template/static/js/main.2d1ace89.js.map"
+    "main.css": "//github.com/kravets-julia/goit-react-hw-01-components/static/css/main.c4f317d2.css",
+    "main.js": "//github.com/kravets-julia/goit-react-hw-01-components/static/js/main.2d1ace89.js",
+    "index.html": "//github.com/kravets-julia/goit-react-hw-01-components/index.html",
+    "main.c4f317d2.css.map": "//github.com/kravets-julia/goit-react-hw-01-components/static/css/main.c4f317d2.css.map",
+    "main.2d1ace89.js.map": "//github.com/kravets-julia/goit-react-hw-01-components/static/js/main.2d1ace89.js.map"
   },
   "entrypoints": [
     "static/css/main.c4f317d2.css",
