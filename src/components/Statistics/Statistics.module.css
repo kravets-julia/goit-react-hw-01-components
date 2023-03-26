@@ -1,0 +1,45 @@
+.label{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    letter-spacing: 1.36;
+}
+.percentage{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 24px;
+    letter-spacing: 1.36;
+    margin-top: 10px;
+}
+
+.item{
+width: 70px;
+    display: block;
+    display: flex;
+   flex-direction: column;
+   gap: 20px;
+   padding: 20px;
+   text-align: center;
+   border: 1px solid red;
+ }
+
+.stat{
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    display: flex;
+    flex-direction: row;
+      margin-right: auto;
+   margin-left: auto;
+}
+
+.title{
+    text-transform: uppercase;
+    color: darkgrey;
+    margin-bottom: 30px;
+}
+.statistics{
+margin-top: 250px;
+    text-align: center;
+    padding: 20px;
+}

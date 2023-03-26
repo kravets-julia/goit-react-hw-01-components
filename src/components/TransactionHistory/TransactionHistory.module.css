@@ -1,0 +1,30 @@
+tbody tr:nth-child(odd) {
+    background-color: ffffff;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #d2deff;
+  }
+
+  table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  
+  thead th{
+    background-color: #2ec5ef;
+    color:white;
+    text-transform: uppercase;
+    border: 2px solid white;
+  }
+  
+  th,
+  td {
+    padding: 20px;
+  }
+
+  .history{
+    margin-top: 150px;
+  }
