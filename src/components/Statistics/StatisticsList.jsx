@@ -12,7 +12,7 @@ export const StatisticsList = ( {data} ) => {
             {data.map(data => (
                 <li key={data.id}
                 style={{ backgroundColor: getRandomHexColor() }}>
-                    <Data data={data} 
+                    <Data 
                     label={data.label}
                     percentage={data.percentage}/>
                 </li>

@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 import css from 'components/Statistics/Statistics.module.css'
 
-export const Data = ({ data: {label, percentage} }) => {
+export const Data = ({ label, percentage }) => {
     return (
         <div className={css.item}>
       <span className={css.label}>{label}</span>

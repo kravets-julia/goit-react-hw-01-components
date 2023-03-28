@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 import css from 'components/UserCard/User.module.css';
 
-export const User = ({ user: {username, tag, location, avatar, stats:{followers, views, likes} } }) => {
+export const User = ({ username, tag, location, avatar, stats:{followers, views, likes}  }) => {
     return (
     <div className={css.profile}>
   <div className={css.description}>

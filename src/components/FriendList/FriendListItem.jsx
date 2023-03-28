@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import css from 'components/FriendList/FriendList.module.css';
 
 
-export const Friend = ({friend: {avatar, name, isOnline}}) => {
+export const Friend = ({avatar, name, isOnline}) => {
 
    return (
 <div className={css.item}>
